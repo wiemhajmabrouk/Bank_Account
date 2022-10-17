@@ -1,0 +1,14 @@
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\entities\Client.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\entities\Operation.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\dtos\OperationRequestBody.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\services\IOperationService.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\enums\OperationType.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\configuration\SwaggerConfig.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\repositories\OperationRepository.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\entities\BankAccount.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\repositories\ClientRepository.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\web\controllers\OperationController.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\dtos\OperationDto.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\repositories\BankAccountRepository.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\services\impl\OperationService.java
+C:\Users\HP PRO\Desktop\bank-account-kata-main\bank-account-kata-main\src\main\java\fr\sg\bankaccountkata\BankAccountKataApplication.java
